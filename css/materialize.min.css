@@ -3673,9 +3673,9 @@ small {
 .btn-large[disabled],
 .btn-flat[disabled] {
   pointer-events: none;
-  background-color: #DFDFDF !important;
+  background-color: #dfdfdf !important;
   box-shadow: none;
-  color: #9F9F9F !important;
+  color: #9f9f9f !important;
   cursor: default; }
   .btn.disabled:hover, .disabled.btn-large:hover,
   .btn-floating.disabled:hover,
@@ -3691,8 +3691,8 @@ small {
   .btn-floating[disabled]:hover,
   .btn-large[disabled]:hover,
   .btn-flat[disabled]:hover {
-    background-color: #DFDFDF !important;
-    color: #9F9F9F !important; }
+    background-color: #dfdfdf !important;
+    color: #9f9f9f !important; }
 
 .btn, .btn-large,
 .btn-floating,
@@ -4989,7 +4989,7 @@ form p:last-child {
   .switch label .lever:before {
     background-color: rgba(38, 166, 154, 0.15); }
   .switch label .lever:after {
-    background-color: #F1F1F1;
+    background-color: #f1f1f1;
     box-shadow: 0px 3px 1px -2px rgba(0, 0, 0, 0.2), 0px 2px 2px 0px rgba(0, 0, 0, 0.14), 0px 1px 5px 0px rgba(0, 0, 0, 0.12); }
 
 input[type=checkbox]:checked:not(:disabled) ~ .lever:active::before,
